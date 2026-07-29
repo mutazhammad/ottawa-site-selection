@@ -5,20 +5,24 @@
 
 ## Recommendation
 
-Prioritize the **Lincoln Fields** station catchment for the next Ottawa location, with an estimated **$2.8M in annual capturable food-services spend**, higher than any newly opened LRT catchment. South Keys ($1.9M) and Place d'Orléans ($1.8M) are strong secondary options.
+**Prioritize Lincoln Fields** for the next Ottawa location, with an estimated **$2.8M in annual capturable food-services spend** — the highest of any newly opened LRT catchment, and the cleanest current coffee gap of the top candidates. Place d'Orléans and South Keys are alternatives with different tradeoffs, detailed below.
 
-## Why These Stations
+## The Ranking, and Why It Evolved
 
-Ottawa's LRT network expanded in 2025, creating concentrated pedestrian demand at stations that existing chains have not yet responded to. This analysis modeled the eight new-station catchments against current population and existing competition to identify where demand most outpaces supply. New catchments showed roughly 35% higher capturable demand than established ones since the market has not fully caught up to the new network.
+An initial gravity model ranked the eight new-station catchments by capturable demand. A 2026 building-permit check and direct verification of competitor locations then refined that ranking by surfacing competition and growth that point-in-time data cannot see:
 
-## Why Lincoln Fields Specifically
+- **Lincoln Fields** — highest modeled demand ($2.8M), no incoming competition in the permit pipeline, and the nearest direct coffee competitor roughly 1.4km from the station. The catchment is stable rather than fast-growing.
+- **Place d'Orléans** — currently zero coffee competitors within range, but a bakery/café (Les Moulins Lafayette) is under active construction at the station. The gap exists but is closing; attractive only to a chain that can move quickly.
+- **South Keys** — 144 new dwelling units under construction and no incoming competition, but an existing Starbucks 364m from the station makes it the most contested coffee site of the three today.
 
-It combines a substantial resident catchment with unusually thin direct competition. Field verification confirmed only around three coffee competitors within walking range (including a Starbucks near Carlingwood), versus 100+ near saturated downtown stations. The opportunity is strongest for a coffee-led concept, while a fast-food concept would face more established competition there (Wendy's, McDonald's, Popeyes nearby).
+## Why Lincoln Fields
+
+Three independent lines of evidence converge on it: the demand model ranks it first, the permit check confirms no incoming competitor, and direct verification shows no direct coffee competitor within roughly 1.4km of the station. For a coffee-led concept, it is the clearest station-proximate gap.
 
 ## Method
 
-Station catchments were built as non-overlapping walkable territories. Demand was estimated from 2021 census population apportioned to each catchment and Statistics Canada per-household food-services spending. Competition was pulled from live location data and weighted by brand strength, then combined with demand using a Huff gravity model to estimate capturable share per site.
+Non-overlapping walkable catchments were built per station. Demand was estimated from 2021 census population apportioned by area and Statistics Canada per-household food-services spending. Competition was pulled from live location data, weighted by brand strength, and combined with demand using a Huff gravity model. The ranking was then adjusted using 2026 City of Ottawa building permits and direct competitor verification.
 
 ## What This Is and Isn't
 
-Figures are estimates built on stated assumptions (household size, per-household spend, the coffee/QSR share of food-services spending) and represent a defensible relative ranking rather than precise revenue forecasts. Refinement with the chain's own average-ticket and capture-rate data would sharpen the absolute figures. The ranking itself is robust to these assumptions.
+Figures are estimates on stated assumptions (household size, per-household spend, coffee/QSR share of food-services spending) and represent a defensible relative ranking rather than precise forecasts. The absolute capture share for the top site is optimistic and would be tempered with a chain's own average-ticket and capture-rate data. The ranking itself is robust, and the top recommendation was verified against both the development pipeline and current competitor locations.
